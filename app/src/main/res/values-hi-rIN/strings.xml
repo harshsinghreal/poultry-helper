@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पोल्ट्री दोस्त</string>
+    <string name="title_home">फ.स.र.</string>
+    <string name="title_dashboard">खबर</string>
+    <string name="title_notifications">बारे में</string>
+    <string name="bag_no">इस्तेमाल बोरी की संख्या (50 कि.ग्रा.)</string>
+    <string name="bag_no2">इस्तेमाल बोरी की संख्या (60 कि.ग्रा.)</string>
+    <string name="remain_bird">"शेष पक्षियों कि संख्यां "</string>
+    <string name="weight_chick">एक मुर्गे का वजन (कि.ग्रा.)</string>
+    <string name="bird_weight">"कुल मुर्गा वजन "</string>
+    <string name="food_weight">"कुल चारा खपत "</string>
+</resources>

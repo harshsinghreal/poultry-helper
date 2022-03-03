@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">POULTRY FRIEND</string>
+    <string name="title_home">FCR</string>
+    <string name="title_dashboard">NEWS</string>
+    <string name="title_notifications">ABOUT</string>
+    <string name="bag_no">Number of used bags (50 kg)</string>
+    <string name="bag_no2">Number of used bags (60 kg)</string>
+    <string name="remain_bird">Number of remaining birds</string>
+    <string name="weight_chick">Weight of one bird  (k.g.)</string>
+    <string name="bird_weight">Bird Weight</string>
+    <string name="food_weight">Food Weight</string>
+
+</resources>
